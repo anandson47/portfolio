@@ -1,0 +1,12 @@
+{
+  "weightData": [
+    {
+      "date": "2026-03-07",
+      "caloriesConsumed": 100,
+      "caloriesBurned": 32,
+      "weight": 97
+    }
+  ],
+  "initialWeight": 98,
+  "targetWeight": 80
+}

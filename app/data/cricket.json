@@ -1,0 +1,107 @@
+{
+  "careerStats": {
+    "matches": 37,
+    "bowling": {
+      "wickets": 34,
+      "economy": 7.25,
+      "best": "4/22"
+    },
+    "batting": {
+      "runs": 97,
+      "average": 19.4,
+      "strikeRate": 94.17,
+      "highest": 16
+    },
+    "fielding": {
+      "catches": 1,
+      "runOuts": 0
+    }
+  },
+  "matchHistory": [
+    {
+      "opponent": "Pune Fighters Cricket Club",
+      "date": "2026-02-21",
+      "bowling": {
+        "overs": "4",
+        "runs": "22",
+        "wickets": "4"
+      },
+      "batting": {
+        "runs": "11",
+        "balls": "9"
+      },
+      "fielding": {
+        "catches": "0",
+        "runOuts": "0"
+      }
+    },
+    {
+      "opponent": "Puneri King Club",
+      "date": "2026-02-14",
+      "bowling": {
+        "overs": "0",
+        "runs": "0",
+        "wickets": "0"
+      },
+      "batting": {
+        "runs": "13",
+        "balls": "14"
+      },
+      "fielding": {
+        "catches": "0",
+        "runOuts": "0"
+      }
+    },
+    {
+      "opponent": "Rudra Royal",
+      "date": "2026-02-08",
+      "bowling": {
+        "overs": "2",
+        "runs": "11",
+        "wickets": "1"
+      },
+      "batting": {
+        "runs": "0",
+        "balls": "1"
+      },
+      "fielding": {
+        "catches": "0",
+        "runOuts": "0"
+      }
+    },
+    {
+      "opponent": "Blue Eagles",
+      "date": "2026-02-07",
+      "bowling": {
+        "overs": "2",
+        "runs": "21",
+        "wickets": "1"
+      },
+      "batting": {
+        "runs": "0",
+        "balls": "0"
+      },
+      "fielding": {
+        "catches": "0",
+        "runOuts": "0"
+      }
+    },
+    {
+      "opponent": "Democratic Champions",
+      "date": "2026-01-31",
+      "bowling": {
+        "overs": "5",
+        "runs": "41",
+        "wickets": "2"
+      },
+      "batting": {
+        "runs": "11",
+        "balls": "10"
+      },
+      "fielding": {
+        "catches": "0",
+        "runOuts": "0"
+      }
+    }
+  ]
+}

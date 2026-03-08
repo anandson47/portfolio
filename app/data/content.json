@@ -1,0 +1,89 @@
+{
+  "upcomingContent": [
+    {
+      "id": 1772902379230,
+      "title": "Kollukumalai Sunrise Peak",
+      "platform": "Instagram",
+      "status": "Scheduled"
+    },
+    {
+      "id": 1772902468279,
+      "title": "Katchi Sera Freestyle VIdeo",
+      "platform": "Instagram",
+      "status": "Editing"
+    },
+    {
+      "id": 1772902479267,
+      "title": "Weekend after work Reel",
+      "platform": "Instagram",
+      "status": "Editing"
+    },
+    {
+      "id": 1772902495510,
+      "title": "Kerala Trip Post",
+      "platform": "Instagram",
+      "status": "Execution"
+    },
+    {
+      "id": 1772902502585,
+      "title": "Munnar Reel",
+      "platform": "Instagram",
+      "status": "Idea"
+    },
+    {
+      "id": 1772902507350,
+      "title": "Thekkady Reel",
+      "platform": "Instagram",
+      "status": "Idea"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "Instagram",
+      "description": "Cricket highlights and reels",
+      "url": "https://instagram.com"
+    },
+    {
+      "name": "YouTube",
+      "description": "Long form content",
+      "url": "https://youtube.com"
+    }
+  ],
+  "latestUploads": [
+    {
+      "id": 1772902978820,
+      "title": "Nets Session with Vishnu",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DVkywfHk325/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1772914206297,
+      "title": "Beach football with the boys",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DVfpKRGD8V2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1772914246922,
+      "title": "Bowling Session",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DVafpW9Dwq2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1772914284849,
+      "title": "Batting session",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DVVWAo4DRfE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1772914323468,
+      "title": "SPL 5.0 Post",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/p/DVQI-3uD-j9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    }
+  ]
+}
