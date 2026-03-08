@@ -19,7 +19,7 @@ interface Match {
   }
 }
 
-export default function MatchHistoryTable({ matches }: { matches: Match[] }) {
+export default function MatchHistoryTable({ matches }: any) {
 
   return (
     <div className="bg-neutral-900 rounded-2xl p-6 overflow-x-auto">
