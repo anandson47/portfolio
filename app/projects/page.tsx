@@ -13,7 +13,7 @@ export default function Projects() {
           <div
             key={project.title}
             onClick={() => (window.location.href = project.link)}
-            className="p-6 bg-neutral-900 rounded-xl"
+            className="p-6 bg-neutral-900 rounded-xl cursor-pointer hover:bg-neutral-800 transition"
           >
             <h3 className="text-xl font-semibold">{project.title}</h3>
             <p className="text-neutral-400 mt-2">{project.description}</p>

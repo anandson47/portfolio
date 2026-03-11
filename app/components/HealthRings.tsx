@@ -45,8 +45,8 @@ export default function HealthRings() {
 
   const targetCalorieIntake = 1500;
   const targetCaloriesBurned = 500;
-  const caloriesConsumed = weightData[weightData.length - 1].caloriesConsumed || 0;
-  const caloriesBurned = weightData[weightData.length - 1].caloriesBurned || 0;
+  const caloriesConsumed = weightData[weightData.length - 1]?.caloriesConsumed || 0;
+  const caloriesBurned = weightData[weightData.length - 1]?.caloriesBurned || 0;
 
   return (
     <div className="flex flex-col items-center justify-center">
