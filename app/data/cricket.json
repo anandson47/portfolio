@@ -1,9 +1,9 @@
 {
   "careerStats": {
-    "matches": 37,
+    "matches": 38,
     "bowling": {
       "wickets": 34,
-      "economy": 7.25,
+      "economy": 7.28,
       "best": "4/22"
     },
     "batting": {
@@ -18,6 +18,23 @@
     }
   },
   "matchHistory": [
+    {
+      "opponent": "Net Media Boys",
+      "date": "2026-03-15",
+      "bowling": {
+        "overs": "3",
+        "runs": "25",
+        "wickets": "0"
+      },
+      "batting": {
+        "runs": "0",
+        "balls": "0"
+      },
+      "fielding": {
+        "catches": "0",
+        "runOuts": "0"
+      }
+    },
     {
       "opponent": "Pune Fighters Cricket Club",
       "date": "2026-02-21",
@@ -80,23 +97,6 @@
       "batting": {
         "runs": "0",
         "balls": "0"
-      },
-      "fielding": {
-        "catches": "0",
-        "runOuts": "0"
-      }
-    },
-    {
-      "opponent": "Democratic Champions",
-      "date": "2026-01-31",
-      "bowling": {
-        "overs": "5",
-        "runs": "41",
-        "wickets": "2"
-      },
-      "batting": {
-        "runs": "11",
-        "balls": "10"
       },
       "fielding": {
         "catches": "0",
