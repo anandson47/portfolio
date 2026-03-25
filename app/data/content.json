@@ -1,28 +1,10 @@
 {
   "upcomingContent": [
     {
-      "id": 1772902502585,
-      "title": "Munnar Reel",
-      "platform": "Instagram",
-      "status": "Scheduled"
-    },
-    {
-      "id": 1772902507350,
-      "title": "Thekkady Reel",
-      "platform": "Instagram",
-      "status": "Editing"
-    },
-    {
       "id": 1773200764123,
       "title": "Aaya Sher Dance Choreo",
       "platform": "Instagram",
       "status": "Idea"
-    },
-    {
-      "id": 1773235518365,
-      "title": "Variation Bowling ",
-      "platform": "Instagram",
-      "status": "Scheduled"
     },
     {
       "id": 1773235587488,
@@ -45,27 +27,6 @@
   ],
   "latestUploads": [
     {
-      "id": 1772914323468,
-      "title": "SPL 5.0 Post",
-      "platform": "Instagram",
-      "status": "Scheduled",
-      "link": "https://www.instagram.com/p/DVQI-3uD-j9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    },
-    {
-      "id": 1772902379230,
-      "title": "Kollukumalai Sunrise Peak",
-      "platform": "Instagram",
-      "status": "Scheduled",
-      "link": "https://www.instagram.com/reel/DVp8bnXE8u5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-    },
-    {
-      "id": 1772902468279,
-      "title": "Katchi Sera Freestyle VIdeo",
-      "platform": "Instagram",
-      "status": "Scheduled",
-      "link": "https://www.instagram.com/reel/DVvakNalB3J/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ=="
-    },
-    {
       "id": 1772902479267,
       "title": "Weekend after work Reel",
       "platform": "Instagram",
@@ -78,6 +39,27 @@
       "platform": "Instagram",
       "status": "Scheduled",
       "link": "https://www.instagram.com/p/DV5tyu3D9iN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1772902502585,
+      "title": "Munnar Reel",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DV-3UvSk-S8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1772902507350,
+      "title": "Thekkady Reel",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DWJKlGkDYqQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "id": 1773235518365,
+      "title": "Variation Bowling ",
+      "platform": "Instagram",
+      "status": "Scheduled",
+      "link": "https://www.instagram.com/reel/DWEA8lCDc6c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     }
   ]
 }

@@ -9,6 +9,16 @@
       "title": "HTML to DOM Converter",
       "description": "Visualize HTML as DOM tree",
       "link": "https://anandson47.github.io/HTML2DOM/"
+    },
+    {
+      "title": "A-Frame Personal DIsplay",
+      "description": "A project for VR experience displaying personal interests using AFrame",
+      "link": "https://anandson47.github.io/aframetest/"
+    },
+    {
+      "title": "FlatSync",
+      "description": "A smart shared living management app built with React Native (Expo) and Firebase",
+      "link": "https://docs.google.com/presentation/d/1tb5SLN8iiSU8JFJw_icLDh3OIMkvodQU/edit?usp=sharing&ouid=101767435416991069210&rtpof=true&sd=true"
     }
   ]
 }
